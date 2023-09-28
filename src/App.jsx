@@ -46,7 +46,7 @@ const App = () => {
 
     return (
         <div>
-            <h1>User Data</h1>
+            <h1>User Profile</h1>
             <div>
                 <button onClick={() => showUserData(1)}>User 1</button>
                 <button onClick={() => showUserData(2)}>User 2</button>
